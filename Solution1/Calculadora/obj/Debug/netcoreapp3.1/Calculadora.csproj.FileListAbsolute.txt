@@ -1,0 +1,15 @@
+C:\Users\Miguel\Desktop\tp 6\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.exe
+C:\Users\Miguel\Desktop\tp 6\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.deps.json
+C:\Users\Miguel\Desktop\tp 6\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.json
+C:\Users\Miguel\Desktop\tp 6\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.dev.json
+C:\Users\Miguel\Desktop\tp 6\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\Miguel\Desktop\tp 6\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\Miguel\Desktop\tp 6\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csprojAssemblyReference.cache
+C:\Users\Miguel\Desktop\tp 6\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.Form1.resources
+C:\Users\Miguel\Desktop\tp 6\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\tp 6\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\tp 6\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\tp 6\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\tp 6\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\Miguel\Desktop\tp 6\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\Miguel\Desktop\tp 6\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.genruntimeconfig.cache

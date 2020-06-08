@@ -1,0 +1,3 @@
+- 2a) List y LinkedList son implementaciones diferentes del mecanismo de almacenamiento para una Lista. List usa una matriz que debe cambiar de tamaño si su colección supera su tamaño de almacenamiento actual. LinkedList, por otro lado utiliza la estructura de datos de la lista vinculada. LinkedList es mejor para algunas cargas de trabajo pesadas de inserción, pero List es mejor para cargas de trabajo de acceso aleatorio.
+- 2c) Los beneficios de usar una libreria de clases es que consigo codigo reutilizable que puedo usar en cualquier parte de mi proyecto
+- 2d) Se la agrega con la palabra reservada using <nombredelabiblioteca> al principio del codigo
